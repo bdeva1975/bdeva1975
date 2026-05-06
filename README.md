@@ -26,6 +26,7 @@ I build AI-powered applications and open source tools at the intersection of
 | [FlowMinds](https://github.com/bdeva1975/FlowMinds) | Natural language → Mermaid flowchart generator | Python · OpenAI · Streamlit |
 | [SummaryForge](https://github.com/bdeva1975/SummaryForge) | AI-powered PDF summarization | Python · OpenAI · Streamlit |
 | [prompt2pic](https://github.com/bdeva1975/prompt2pic) | Text-to-image generator via DALL-E 3 | Python · OpenAI |
+| [AgentMemory](https://github.com/bdeva1975/agentmemory) | Persistent memory for OpenAI agents — store, recall, and forget | Python · OpenAI · Streamlit |
 
 ---
 
