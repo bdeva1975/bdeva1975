@@ -1,6 +1,6 @@
 # Hi, I'm Devasish Banerjee 👋
 
-Senior Manager — GenAI & Application Development
+Senior Manager — GenAI & Application Development  
 TCG Lifesciences Pvt. Ltd. | Kolkata, India 🇮🇳
 
 ---
@@ -20,22 +20,22 @@ I build AI-powered applications and open source tools at the intersection of **G
 
 | Project | Description | Stack |
 | ------- | ----------- | ----- |
-| [LLM Cost Autopilot](https://github.com/bdeva1975/llm-cost-autopilot) | LLM FinOps control loop — observe → analyze → detect → predict → recommend → simulate → govern → automate. YAML policy rules, conditioned approvals with revalidation, anomaly detection & cost simulation. 135 tests, CI green | Python · Streamlit |
+| [LLM Cost Autopilot](https://github.com/bdeva1975/llm-cost-autopilot) | LLM FinOps control loop — anomaly detection, cost forecasting, YAML policy engine, conditioned approvals with revalidation. 135 tests, CI green | Python · Streamlit |
+| [Whydunit](https://github.com/bdeva1975/whydunit) | Forensic investigation console for AI/ML pipeline failures — deterministic anomaly detection, change-point analysis, DAG root-cause reasoning. 12/12 top-1 diagnostic accuracy, 140 tests | Python · Streamlit · Plotly · scikit-learn |
 | [Model Regression Detector](https://github.com/bdeva1975/model-regression-detector) | Catch model performance regressions before they ship — classification & regression tasks, deterministic offline evaluation, methodology docs | Python · Streamlit · scikit-learn |
 | [AgentGov](https://github.com/bdeva1975/agentgov) | Governance & observability control plane for agentic systems — policy/budget enforcement, audit trail, MCP integration | Python · FastAPI · Streamlit |
 | [ChemMCP](https://github.com/bdeva1975/ChemMCP) | FastMCP-based chemistry MCP server exposing cheminformatics tools to LLM agents | Python · FastMCP · RDKit |
 | [HallucinationBench](https://github.com/bdeva1975/hallucinationbench) | Detect hallucinations in RAG pipeline output in 2 lines of Python | Python · OpenAI · Streamlit |
-| [rag-indexing-benchmark](https://github.com/bdeva1975/rag-indexing-benchmark) | Compare 6 RAG indexing strategies on your own documents — with a single command | Python · LangChain |
 
 ---
 
 ## 🧰 Tech Stack
 
-**AI/ML:** OpenAI API · Claude API · LangChain · LangGraph · Streamlit · RAG · Multi-agent systems · MCP
-**Backend:** Spring Boot 3.x · Java · Python · REST APIs
-**Frontend:** React 19 · TypeScript · Tailwind CSS
-**Database:** PostgreSQL · Oracle
-**DevOps:** AWS ECS · Docker · GitHub Actions · uv
+**AI/ML:** OpenAI API · Claude API · LangChain · LangGraph · Streamlit · Plotly · scikit-learn · RAG · Multi-agent systems · MCP  
+**Backend:** Spring Boot 3.x · Java · Python · REST APIs  
+**Frontend:** React 19 · TypeScript · Tailwind CSS  
+**Database:** PostgreSQL · Oracle  
+**DevOps:** AWS ECS · Docker · GitHub Actions · uv  
 **Domain:** Pharma CRO · Drug Discovery · DMPK · Regulatory workflows
 
 ---
@@ -62,5 +62,5 @@ pip install hallucinationbench
 
 ---
 
-*Currently building open source AI governance, evaluation, and agent infrastructure tools.
+*Currently building open source AI governance, evaluation, and agent infrastructure tools.  
 Open to consulting, collaboration, and speaking opportunities.*
